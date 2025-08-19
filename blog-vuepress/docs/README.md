@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /assets/logo.jpg
 heroText: 夜尽天明
 tagline: 芳华正茂始少年，时光正好，未来可期 ！
 actionText: 开始围观 →
