@@ -1,7 +1,7 @@
 module.exports = {
     title: '夜尽天明',
     description: '夜尽天明的博客',
-    base: '/blog/',
+    base: '/pyblog/',
     head: [
         [
             'link',
